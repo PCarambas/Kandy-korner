@@ -1,0 +1,18 @@
+.locations-container {
+    display: flex;
+    flex-direction: column;
+}
+.locations-header {
+    text-align: center;
+    color: darkmagenta;
+
+}
+
+.location-card {
+    background-color: rgb(250, 221, 221);
+    border: 4px dotted green;
+    border-radius: 1rem;
+    padding: 0.7rem;
+    margin: 0.5rem 0;
+    text-align: center;
+}

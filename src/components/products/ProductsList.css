@@ -1,0 +1,18 @@
+.products-container {
+    display: flex;
+    flex-direction: column;
+}
+.products-header {
+    text-align: center;
+    color: darkmagenta;
+
+}
+
+.product-card {
+    background-color: paleturquoise;
+    border: 6px dotted turquoise;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin: 0.5rem 0;
+    text-align: center;
+}
